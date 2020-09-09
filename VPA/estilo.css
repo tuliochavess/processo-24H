@@ -1,0 +1,144 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#servicos  {
+    display: none;
+    list-style-type:none;
+}
+#servicos li {
+    padding: 8px;   
+}
+#servicos li a {
+    text-decoration: none;
+    color: grey;
+    display: inline-block;
+}
+#passar:hover ul {
+    display: block;
+    text-decoration: none;
+}
+div.carousel-inner {
+    max-height: 600px;
+}
+.form-inline {
+    text-align: justify;
+}
+#galeria {
+    position: absolute;
+}
+#formulario {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 50px;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding-left: 40px;
+    border-radius: 12px;
+}
+#formulario h1 {
+    color: #54b26a;
+    font-weight: 900;    
+}
+#compartilhe{
+    color: #54b26a;
+    padding-top: 10px;
+    font-weight: 900;
+    font-size: 20px;
+}
+#icones {
+    margin-bottom: 20px;
+}
+#icon{
+    width: 20px;
+    height: 20px;
+}
+#comoFunciona {
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 90px
+}
+h2 {
+    text-align: center;
+    padding-bottom: 60px;
+    font-weight: 900;
+}
+img.icone {
+    margin:0 auto;
+    display: block;
+}
+#pfunc {
+    text-align: center;
+}
+#clientePaga {
+    position: absolute;
+    margin-top: 950px;
+    margin-left: 90px
+}
+#vantagem {
+    position: absolute;
+    margin-top: 1220px;
+    margin-left: 90px;
+    background-color: #EEEEEE;
+    border-radius: 12px;
+}
+h4 {
+    text-align: center;
+}
+#vantagens {  
+    margin: 5px;
+    box-shadow: 0px 2px 12px -5px;
+    width: 350px;
+    height: 200px;
+    border-radius: 12px;
+    background-color: white;     
+}
+#gostou {
+    position: relative;
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 40px;   
+}
+#gostar {
+    position: relative;
+    padding-top: 450px;
+}
+#duvidas {
+    position: absolute;
+    margin-top: 2040px;
+    text-align: center;
+    margin-left: 90px;
+}
+h3 {
+    background-color: #00B168;
+    border-radius: 12px;
+    padding: 5px;
+}
+#duvidasblock {
+    margin: 5px;
+    box-shadow: 0px 2px 12px -5px;
+    width: 350px;
+    height: 200px;
+    border-radius: 12px;
+}
+#baixeapp {
+    padding: 40px;
+    position: absolute;
+    margin-top: 2470px;
+    background-color: #EEEEEE;
+    margin-left: 90px;
+    display: inline-block;
+    border-radius: 12px;
+}
+#ladoimagem {
+    display: inline-block;
+    margin-left: 60px;
+    padding-top: 50px;
+}
+footer {
+    background-color: #120e1d;
+    position: absolute;
+    height: 265px;
+    width: 1350px;
+    margin-top: 3030px;
+}
+
+
